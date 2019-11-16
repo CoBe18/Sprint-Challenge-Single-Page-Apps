@@ -10,6 +10,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.2.0",
     "react-swipeable-views": "^0.13.3",
+    "shortid": "^2.2.15",
     "styled-components": "^4.4.0"
   },
   "scripts": {
@@ -29,5 +30,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/shortid": "^0.0.29"
   }
 }

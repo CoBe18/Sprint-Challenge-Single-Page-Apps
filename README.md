@@ -1,3 +1,5 @@
+###### Initial commit with answered question below.
+
 # Sprint Challenge: Single Page Applications
 
 ## Rick & Morty Edition
@@ -27,7 +29,15 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer:  
+	▪	Answer:  The bottom line is that client-side rendering offers benefits that server-side doesn’t. It loads        everything first and then dynamically changes what is needed, instead of receiving a new document each time.
+	▪	No Full Page Reload Required
+	▪	Lazy Loading
+	▪	Rich Interactions
+	▪	Cheap Hosting
+	▪	Use a CDN
+	▪	Easy Deployments
+	▪	Enforced Separation of Concerns/>
 
 ## Project Set Up
 
